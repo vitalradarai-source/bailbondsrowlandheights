@@ -26,7 +26,7 @@
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-rowland-heights | how to get someone out of jail in Rowland Heights | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-rowland-heights | domestic violence bail bonds Rowland Heights | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-rowland-heights | DUI bail bonds Rowland Heights | DUI | ⬜ |
-| 2026-04-14 | Tue | bail-bonds-vs-loans-rowland-heights | bail bonds vs loans Rowland Heights | Keyword Bank HIGH — 3,114 imp myth-busting | ✅ published Apr 14 (swapped from felony-bail-bonds) |
+| 2026-04-14 | Tue | 2026-04-14-rowland-heights-bail-bonds-guide | rowland heights bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-rowland-heights | drug possession bail Rowland Heights | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-rowland-heights | can you bail someone out at night in Rowland Heights | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-rowland-heights | how long does it take to bail someone out of LASD Industry Station | Timeline | ⬜ |
