@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-rowland-heights | how much does a bail bondsman charge in Rowland Heights | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-rowland-heights | bail bond payment plan Rowland Heights | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-rowland-heights | jail booking process at LASD Industry Station | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-rowland-heights | how to find someone in jail Rowland Heights | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-rowland-heights | what to expect at arraignment Pomona Courthouse | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-rowland-heights | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-rowland-heights | warrant bail bonds Rowland Heights | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-rowland-heights | what happens if you miss court date Rowland Heights | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-rowland-heights | assault and battery bail bonds Rowland Heights | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-rowland-heights | theft and burglary bail bonds Rowland Heights | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-rowland-heights | how to choose a bail bondsman in Rowland Heights | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-rowland-heights | what does a bail bond cosigner do Rowland Heights | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-rowland-heights | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | bail-bond-conditions-rowland-heights | bail conditions and restrictions in Los Angeles | Conditions | ⬜ |
+| 2026-04-22 | Wed | first-offense-bail-rowland-heights | first offense bail bonds Rowland Heights | First Offense | ⬜ |
+| 2026-04-23 | Thu | felony-vs-misdemeanor-bail-rowland-heights | felony vs misdemeanor bail Rowland Heights | Charge Types | ⬜ |
+| 2026-04-24 | Fri | weapon-charges-bail-rowland-heights | weapon charges bail bonds Rowland Heights | Weapon Charges | ⬜ |
+| 2026-04-25 | Sat | immigration-hold-bail-rowland-heights | ICE hold bail questions Rowland Heights | Immigration | ⬜ |
+| 2026-04-26 | Sun | probation-violation-bail-rowland-heights | probation violation bail Rowland Heights | Probation | ⬜ |
+| 2026-04-27 | Mon | bench-warrant-rowland-heights | bench warrant bail bonds Rowland Heights | Bench Warrant | ⬜ |
+| 2026-04-28 | Tue | restraining-order-bail-rowland-heights | restraining order and bail Rowland Heights | Restraining Order | ⬜ |
+| 2026-04-29 | Wed | bail-bond-cost-rowland-heights | how much does a bail bondsman charge in Rowland Heights | Costs | ⬜ |
+| 2026-04-30 | Thu | bail-bond-payment-plan-rowland-heights | bail bond payment plan Rowland Heights | Payment Plans | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
