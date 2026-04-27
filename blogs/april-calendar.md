@@ -39,7 +39,7 @@
 | 2026-04-24 | Fri | weapon-charges-bail-rowland-heights | weapon charges bail bonds Rowland Heights | Weapon Charges | ⬜ |
 | 2026-04-25 | Sat | immigration-hold-bail-rowland-heights | ICE hold bail questions Rowland Heights | Immigration | ⬜ |
 | 2026-04-26 | Sun | probation-violation-bail-rowland-heights | probation violation bail Rowland Heights | Probation | ⬜ |
-| 2026-04-27 | Mon | bench-warrant-rowland-heights | bench warrant bail bonds Rowland Heights | Bench Warrant | ⬜ |
+| 2026-04-27 | Mon | bench-warrant-rowland-heights | bench warrant bail bonds Rowland Heights | Bench Warrant | ✅ published |
 | 2026-04-28 | Tue | restraining-order-bail-rowland-heights | restraining order and bail Rowland Heights | Restraining Order | ⬜ |
 | 2026-04-29 | Wed | bail-bond-cost-rowland-heights | how much does a bail bondsman charge in Rowland Heights | Costs | ⬜ |
 | 2026-04-30 | Thu | bail-bond-payment-plan-rowland-heights | bail bond payment plan Rowland Heights | Payment Plans | ⬜ |
